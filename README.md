@@ -1,2 +1,2 @@
 # demo
-for demo purpose
+for demo purpose about git and github
