@@ -2,3 +2,4 @@ Welcome to MCA
 Modified by Dev1
 modified by dev2
 This is for collaborator
+To set base protection rule for the main branch
